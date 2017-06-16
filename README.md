@@ -11,7 +11,9 @@ Some useful websites for Java Learnes.
 <h3>Index</h3>
 <ul>
 # Sites related to your preferred programming language (For me Java)
+
   * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
+  
   * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
   * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
   * [Java Visualizer ](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
