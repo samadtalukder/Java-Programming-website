@@ -1,6 +1,6 @@
 <h1 align="center">
 	<br>
-	<img width="200" src="https://udemy-images.udemy.com/course/750x422/24823_963e_12.jpg" alt="awesome">
+	<img width="600" src="https://udemy-images.udemy.com/course/750x422/24823_963e_12.jpg" alt="awesome">
 	<br>
 </h1>
 
